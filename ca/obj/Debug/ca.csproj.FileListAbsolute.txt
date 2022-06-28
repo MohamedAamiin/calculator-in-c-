@@ -1,0 +1,11 @@
+C:\Users\Coder\source\repos\ca\ca\bin\Debug\ca.exe.config
+C:\Users\Coder\source\repos\ca\ca\bin\Debug\ca.exe
+C:\Users\Coder\source\repos\ca\ca\bin\Debug\ca.pdb
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.csproj.AssemblyReference.cache
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.Properties.Resources.resources
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.csproj.GenerateResource.cache
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.exe
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.pdb
+C:\Users\Coder\source\repos\ca\ca\obj\Debug\ca.calculator.resources
